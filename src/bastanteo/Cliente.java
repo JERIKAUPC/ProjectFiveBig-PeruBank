@@ -8,7 +8,7 @@ public class Cliente {
 	private String fechaInicio;
 	private String tipoEmpresa;
 	private int empleados;
-
+	private int semodificoporjerika;
 	public Cliente(String codigo, String ruc, String razonSocial,
 			String fechaInicio, String tipoEmpresa, int empleados) {
 		super();  //el super siempre va en primer lugar
